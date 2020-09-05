@@ -1,5 +1,5 @@
 ---
-title: Blockchain Commons Open Software Developer Terms
+title: Dyvers Hands Open Software Developer Terms
 edition: Version 1.0.0
 blanks: {}
 signatures: []
@@ -7,17 +7,17 @@ signatures: []
 
 # Overview
 
-This document spells out terms under which _Developer_ will develop open software for _Blockchain Commons_.
+This document spells out terms under which _Developer_ will develop open software for _Dyvers Hands Productions LLC_ or one of its series LLC organizational units under Wyoming Law (for example _Dyvers Hands Productions LLC Series 1_), for the rest of this aggreement _Dyvers Hands_.
 
 # Work Order
 
-These terms apply to work done under any **Work Order** that references these terms.  Each _Work Order_, together with these terms, makes up an agreement between _Blockchain Commons_ and _Developer_.
+These terms apply to work done under any **Work Order** that references these terms.  Each _Work Order_, together with these terms, makes up an agreement between _Dyvers Hands_ and _Developer_.
 
 # Developer's Obligations
 
 ## Send a W-9
 
-Before beginning any work, _Developer_ agrees to send _Blockchain Commons_ a complete United States Internal Revenue Service Form W-9 or W-8BEN.
+Before beginning any work, _Developer_ agrees to send _Dyvers Hands_ a complete United States Internal Revenue Service Form W-9 or W-8BEN.
 
 ## Do the Work
 
@@ -35,7 +35,7 @@ Beginning on receipt of first payment, _Developer_ agrees to complete all milest
 
 ## Stick to the Repositories
 
-_Developer_ agrees to work on the repositories on the _Work Order_ only, and not to count hours working on any other projects or repositories without prior, written approval from _Blockchain Commons_' technical representative.
+_Developer_ agrees to work on the repositories on the _Work Order_ only, and not to count hours working on any other projects or repositories without prior, written approval from _Dyvers Hands_' technical representative.
 
 ## Sign Every Commit
 
@@ -43,7 +43,7 @@ _Developer_ agrees to sign Git commits for all _Contributions_ with a single key
 
 ## Leave Time for Approval
 
-_Developer_ agrees to coordinate with _Blockchain Commons_ to ensure that work is delivered with sufficient time left for _Blockchain Commons_ to clarify and approve completion of milestones before the end date on the _Work Order_.  _Developer_ agrees to work on milestones in a logical order that enables _Blockchain Commons_' technical representative to review and approve milestones in sequence, one at a time.
+_Developer_ agrees to coordinate with _Dyvers Hands_ to ensure that work is delivered with sufficient time left for _Dyvers Hands_ to clarify and approve completion of milestones before the end date on the _Work Order_.  _Developer_ agrees to work on milestones in a logical order that enables _Dyvers Hands_'s technical representative to review and approve milestones in sequence, one at a time.
 
 ## Spend Spare Hours on the Repositories
 
@@ -55,7 +55,7 @@ _Developer_ agrees to track time spent working on milestones in fairly rounded, 
 
 ## Send Weekly Reports
 
-_Developer_ agrees to send _Blockchain Commons_' technical representative a report with all the following information within two business days after the end of each workweek:
+_Developer_ agrees to send _Dyvers Hands_'s technical representative a report with all the following information within two business days after the end of each workweek:
 
 - a summary of work done during the week
 
@@ -67,7 +67,7 @@ _Developer_ agrees to send _Blockchain Commons_' technical representative a repo
 
 ## Send Bills
 
-_Developer_ agrees to bill _Blockchain Commons_ for each payment due under the agreement according to _Blockchain Commons_' billing instructions on the _Work Order_.
+_Developer_ agrees to bill _Dyvers Hands_ for each payment due under the agreement according to _Dyvers Hands_' billing instructions on the _Work Order_.
 
 ## Cover General Expenses
 
@@ -75,7 +75,7 @@ _Developer_ agrees to pay for all equipment, licenses, and services needed to de
 
 ## Return Loaned Equipment
 
-After work is done under the agreement, and at any time on _Blockchain Commons_' request, _Developer_ agrees to promptly return any equipment _Blockchain Commons_ loaned for work under this agreement.
+After work is done under the agreement, and at any time on _Dyvers Hands_'s request, _Developer_ agrees to promptly return any equipment _Dyvers Hands_ loaned for work under this agreement.
 
 ## Manage Subcontractors
 
@@ -83,7 +83,7 @@ If the _Work Order_ allows _Developer_ to use subcontractors:
 
 - _Developer_ agrees to use only subcontractors that have all the expertise needed to do the work efficiently.
 
-- If _Blockchain Commons_' technical representative objects to a particular subcontractor, _Developer_ agrees to stop using that subcontractor to do work under the agreement.
+- If _Dyvers Hands_'s technical representative objects to a particular subcontractor, _Developer_ agrees to stop using that subcontractor to do work under the agreement.
 
 - _Developer_ agrees to sign a contract with each subcontractor requiring them to abide by the terms of this agreement, assign _Intellectual Property Rights_ to _Developer_, and to abide by any nondisclosure agreement between _Developer_ and _Blockchain Commons_.
 
