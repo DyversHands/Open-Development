@@ -85,19 +85,19 @@ If the _Work Order_ allows _Developer_ to use subcontractors:
 
 - If _Dyvers Hands_'s technical representative objects to a particular subcontractor, _Developer_ agrees to stop using that subcontractor to do work under the agreement.
 
-- _Developer_ agrees to sign a contract with each subcontractor requiring them to abide by the terms of this agreement, assign _Intellectual Property Rights_ to _Developer_, and to abide by any nondisclosure agreement between _Developer_ and _Blockchain Commons_.
+- _Developer_ agrees to sign a contract with each subcontractor requiring them to abide by the terms of this agreement, assign _Intellectual Property Rights_ to _Developer_, and to abide by any nondisclosure agreement between _Developer_ and _Dyvers Hands_.
 
-- _Developer_ agrees to send _Blockchain Commons_ a copy of any contract with a subcontractor promptly on request.
+- _Developer_ agrees to send _Dyvers Hands_ a copy of any contract with a subcontractor promptly on request.
 
 ## Appoint Replacement Technical Representatives
 
-_Developer_ agrees to appoint a replacement technical representative, preapproved by _Blockchain Commons_, if the current one leaves or becomes unavailable.
+_Developer_ agrees to appoint a replacement technical representative, preapproved by _Dyvers Hands_, if the current one leaves or becomes unavailable.
 
 # Blockchain Commons' Obligations
 
 ## Pay Developer's Fee
 
-_Blockchain Commons_ agrees to pay _Developer_ the fee on the schedule on the _Work Order_, if any, and otherwise on this schedule:
+_Dyvers Hands_ agrees to pay _Developer_ the fee on the schedule on the _Work Order_, if any, and otherwise on this schedule:
 
 - one third of the fee on entering into this agreement
 
@@ -107,23 +107,23 @@ _Blockchain Commons_ agrees to pay _Developer_ the fee on the schedule on the _W
 
 ## Follow Payment Instructions
 
-_Blockchain Commons_ agrees to make all payments to _Developer_ under this agreement denominated in the currency and according to the payment instructions agreed on the _Work Order_.  _Blockchain Commons_ will not increase or decrease payments under this agreement according to, or to offset, changes in the market price of the denominating currency.
+_Dyvers Hands_ agrees to make all payments to _Developer_ under this agreement denominated in the currency and according to the payment instructions agreed on the _Work Order_.  _Dyvers Hands_ will not increase or decrease payments under this agreement according to, or to offset, changes in the market price of the denominating currency.
 
 ## Pay on Time
 
-_Blockchain Commons_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Blockchain Commons_ does not pay a bill on time, _Developer_ can notify _Blockchain Commons_ and stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
+_Dyvers Hands_ agrees to pay all correctly billed amounts on each bill within seven calendar days of receipt.  If _Dyvers Hands_ does not pay a bill on time, _Developer_ can notify _Dyvers Hands_ and stop work until all overdue bills are paid.  Stopping work in this way postpones all deadlines for as long as work stops.
 
 ## Cover Extraordinary Expenses
 
-If milestones require extraordinary equipment, licenses, services or other major expenses, then _Blockchain Commons_ agrees to cover the costs to the _Developer_ that _Blockchain Commons_' technical representative preapproves in writing. For example, _Blockchain Commons_ may approve the costs of proprietary software licenses, testing hardware, and specific online services that milestones requires _Developer_ to use. If _Blockchain Commons_ requires _Developer_ to use and return specific equipment, _Blockchain Commons_ agrees to pay the costs of packaging and shipping, both ways. If _Blockchain Commons_ cannot pay an approved extraordinary expense directly, _Blockchain Commons_ agrees to advance _Developer_ the cost.
+If milestones require extraordinary equipment, licenses, services or other major expenses, then _Dyvers Hands_ agrees to cover the costs to the _Developer_ that _Dyvers Hands_' technical representative preapproves in writing. For example, _Dyvers Hands_ may approve the costs of proprietary software licenses, testing hardware, and specific online services that milestones requires _Developer_ to use. If _Dyvers Hands_ requires _Developer_ to use and return specific equipment, _Dyvers Hands_ agrees to pay the costs of packaging and shipping, both ways. If _Dyvers Hands_ cannot pay an approved extraordinary expense directly, _Dyvers Hands_ agrees to advance _Developer_ the cost.
 
 ## Clarify Milestones
 
-_Blockchain Commons_ agrees to respond promptly to _Developer_ requests to clarify milestones.
+_Dyvers Hands_ agrees to respond promptly to _Developer_ requests to clarify milestones.
 
 ## Approve Milestones
 
-_Blockchain Commons_ agrees to respond promptly to _Developer_ requests to review _Developer_'s work and either confirm that milestones have been completed or clarify what work still needs to be done.
+_Dyvers Hands_ agrees to respond promptly to _Developer_ requests to review _Developer_'s work and either confirm that milestones have been completed or clarify what work still needs to be done.
 
 # Intellectual Property
 
@@ -131,11 +131,11 @@ _Blockchain Commons_ agrees to respond promptly to _Developer_ requests to revie
 
 [Intellectual Property](#intellectual-property) assigns ownership of intellectual property in _Developer_'s _Contributions_.  That way:
 
-- _Blockchain Commons_ can choose the license for the work, and update that license over time.
+- _Dyvers Hands_ can choose the license for the work, and update that license over time.
 
-- _Blockchain Commons_ can enforce the terms of the licenses it chooses.
+- _Dyvers Hands_ can enforce the terms of the licenses it chooses.
 
-- _Blockchain Commons_ can be sure that it actually has the legal rights needed to license and enforce.
+- _Dyvers Hands_ can be sure that it actually has the legal rights needed to license and enforce.
 
 ## Intellectual Property Definitions
 
@@ -149,11 +149,11 @@ _Blockchain Commons_ agrees to respond promptly to _Developer_ requests to revie
 
 _Developer_ agrees to ensure their _Contributions_ under this agreement have only the following kinds of _Dependencies_:
 
-- _Dependencies_ that _Developer_ has the legal right to assign to _Blockchain Commons_ under [Developer Assigns Intellectual Property](#developer-assigns-intellectual-property)
+- _Dependencies_ that _Developer_ has the legal right to assign to _Dyvers Hands_ under [Developer Assigns Intellectual Property](#developer-assigns-intellectual-property)
 
 - Permissively licensed software made available to the public on the terms of form licenses that Blue Oak Council rated "Bronze" or better on the start date on the _Work Order_
 
-- _Dependencies_ that _Blockchain Commons_' technical representative specifically preapproves in writing, by name and version, for a specific use case
+- _Dependencies_ that _Dyvers Hands_' technical representative specifically preapproves in writing, by name and version, for a specific use case
 
 ## Determining Dependencies' Licenses
 
@@ -161,7 +161,7 @@ _Developer_ may rely on LICENSE, COPYING, and similar files, as well as other co
 
 ## Developer Assigns Intellectual Property
 
-_Developer_ assigns all _New Intellectual Property_ to _Blockchain Commons_. Among the rights assigned are:
+_Developer_ assigns all _New Intellectual Property_ to _Dyvers Hands_. Among the rights assigned are:
 
 - ownership of _New Intellectual Property_
 
@@ -173,35 +173,35 @@ _Developer_ assigns all _New Intellectual Property_ to _Blockchain Commons_. Amo
 
 ## Further Steps
 
-_Developer_ will do everything necessary to paper assignments in [Developer Assigns Intellectual Property](#contractor-assigns-intellectual-property), make them legally effective, and help _Blockchain Commons_ enforce the rights assigned. _Blockchain Commons_ will notify _Developer_ by e-mail of any further steps required, provide all necessary documentation, and reimburse _Developer_ for reasonable out-of-pocket expenses.
+_Developer_ will do everything necessary to paper assignments in [Developer Assigns Intellectual Property](#contractor-assigns-intellectual-property), make them legally effective, and help _Dyvers Hands_ enforce the rights assigned. _Dyvers Hands_ will notify _Developer_ by e-mail of any further steps required, provide all necessary documentation, and reimburse _Developer_ for reasonable out-of-pocket expenses.
 
 ## Blockchain Commons Can Act on Developer's Behalf
 
 ### What Blockchain Commons Can Do
 
-_Blockchain Commons_ can take action under [Further Steps](#further-steps) on _Developer_'s behalf if _Blockchain Commons_ can't find _Developer_, if _Developer_ isn't capable of doing so, or if _Developer_ refuses to do so.
+_Dyvers Hands_ can take action under [Further Steps](#further-steps) on _Developer_'s behalf if _Dyvers Hands_ can't find _Developer_, if _Developer_ isn't capable of doing so, or if _Developer_ refuses to do so.
 
 ### Legal Intent
 
-In legal terms of art, _Blockchain Commons_ and _Developer_ intend [What Blockchain Commons Can Do](#what-blockchain-commons-can-do) to appoint _Blockchain Commons_ as _Developer_'s "attorney in fact with full right of substitution" to act on _Developer_'s behalf under [Further Steps](#further-steps).
+In legal terms of art, _Dyvers Hands_ and _Developer_ intend [What Blockchain Commons Can Do](#what-blockchain-commons-can-do) to appoint _Dyvers Hands_ as _Developer_'s "attorney in fact with full right of substitution" to act on _Developer_'s behalf under [Further Steps](#further-steps).
 
 ## Other Intellectual Property
 
-_Developer_ licenses _Blockchain Commons_ to do everything that would otherwise infringe _Intellectual Property Rights_ that _Developer_ can license, other than _New Intellectual Property_, that _Developer_'s _Contributions_ use or build on. The license continues forever, cannot be revoked, imposes no royalty or other charge, and allows _Blockchain Commons_ to sublicense.
+_Developer_ licenses _Dyvers Hands_ to do everything that would otherwise infringe _Intellectual Property Rights_ that _Developer_ can license, other than _New Intellectual Property_, that _Developer_'s _Contributions_ use or build on. The license continues forever, cannot be revoked, imposes no royalty or other charge, and allows _Dyvers Hands_ to sublicense.
 
 # Working Relationship
 
 ## Independence
 
-_Developer_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor. _Developer_ will not have any power to enter agreements or take other legal action on _Blockchain Commons_' behalf.
+_Developer_ will decide when, where, and how to work under this agreement, with the discretion of an independent contractor. _Developer_ will not have any power to enter agreements or take other legal action on _Dyvers Hands_' behalf.
 
 ## Personnel
 
-If the _Work Order_ allows, _Developer_ can use employee and contractor personnel to do any work under this agreement. Those personnel will be employees and contractors of _Developer_, not _Blockchain Commons_.
+If the _Work Order_ allows, _Developer_ can use employee and contractor personnel to do any work under this agreement. Those personnel will be employees and contractors of _Developer_, not _Dyvers Hands_.
 
 ## No Benefits
 
-Neither _Developer_ nor any _Developer_ personnel will receive any employee benefits from _Blockchain Commons_.
+Neither _Developer_ nor any _Developer_ personnel will receive any employee benefits from _Dyvers Hands_.
 
 ## Compliance
 
@@ -209,7 +209,7 @@ Both sides will do their respective parts for tax, labor, employment, and immigr
 
 ## Compliance Indemnity
 
-_Developer_ will pay any losses that _Blockchain Commons_ pays or becomes legally responsible to pay, including expenses of defending against any legal claim, related to _Developer_'s failure under [Compliance](#compliance) for _Developer_ or any _Developer_ personnel. _Blockchain Commons_ will promptly notify _Developer_ by e-mail whenever it anticipates possible losses that _Developer_ might have to pay. If _Blockchain Commons_ fails to notify _Developer_ promptly, _Developer_ will not pay _Blockchain Commons_ losses that _Developer_ could have reduced or defended against if _Blockchain Commons_ had notified _Developer_ promptly.
+_Developer_ will pay any losses that _Dyvers Hands_ pays or becomes legally responsible to pay, including expenses of defending against any legal claim, related to _Developer_'s failure under [Compliance](#compliance) for _Developer_ or any _Developer_ personnel. _Dyvers Hands_ will promptly notify _Developer_ by e-mail whenever it anticipates possible losses that _Developer_ might have to pay. If _Dyvers Hands_ fails to notify _Developer_ promptly, _Developer_ will not pay _Dyvers Hands_ losses that _Developer_ could have reduced or defended against if _Dyvers Hands_ had notified _Developer_ promptly.
 
 # General Contract Terms
 
@@ -231,7 +231,7 @@ Both sides intend the _Work Order_ and these terms as the final, complete, and o
 
 ## Assignment
 
-_Developer_ cannot assign any right under this agreement without _Blockchain Commons_' prior, written, permission. _Blockchain Commons_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
+_Developer_ cannot assign any right under this agreement without _Dyvers Hands_' prior, written, permission. _Dyvers Hands_ can assign this agreement, as a whole, to another business entity that acquires its stock or substantially all its assets, or to a new business entity set up to change its legal form or jurisdiction. Any attempt to assign rights under this agreement against its terms has no legal effect.
 
 ## Delegation
 
@@ -243,7 +243,7 @@ If a court decides that any part of this agreement cannot be enforced, for any r
 
 ## Enforcement
 
-Only _Developer_ and _Blockchain Commons_ can enforce this agreement.
+Only _Developer_ and _Dyvers Hands_ can enforce this agreement.
 
 ## Lawsuits
 
