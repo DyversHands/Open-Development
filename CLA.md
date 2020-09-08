@@ -8,17 +8,17 @@ E-Mail: `$email`
 
 Legal Jurisdiction: Wyoming, United States of America
 
-Project: https://github.com/BlockchainCommons/Open-Development
+Project: https://github.com/ChatTheatre/
 
 Date: `$date`
 
 ## Purpose
 
-This agreement gives Blockchain Commons, LLC the permission it needs in order to accept my contributions into its open software project and to manage the intellectual property in that project over time.
+This agreement gives Dyvers Hands Productions LLC Series 5 ("_**Dyvers Hands**_") the permission it needs in order to accept my contributions into its open software project and to manage the intellectual property in that project over time.
 
 ## License
 
-I hereby license Blockchain Commons, LLC to:
+I hereby license Dyvers Hands to:
 
 1.  do anything with my contributions that would otherwise infringe my copyright in them
 
@@ -28,7 +28,7 @@ I hereby license Blockchain Commons, LLC to:
 
 ## Reliability
 
-I understand that Blockchain Commons will rely on this license.  I may not revoke this license.
+I understand that Dyvers Hands will rely on this license.  I may not revoke this license.
 
 ## Awareness
 
@@ -52,4 +52,4 @@ I promise not to offer contributions that contain or depend on the work of other
 
 ---
 
-To sign this Contributor License Agreement, fill in `$name`, `$email`, and `$date` above. Then sign using GPG using the following command `gpg --armor --clearsign --output ./signed-cla/CLA.YOURGITHUBNAME.YOURGPGFINGERPRINT.asc CLA.md`, then either submit your signed Contributor License Agreement to this repo as a GPG signed Pull Request or email it to [ChristopherA@BlockchainCommons.com](mailto:ChristopherA@BlockchainCommons.com).
+To sign this Contributor License Agreement, fill in `$name`, `$email`, and `$date` above. Then sign using GPG using the following command `gpg --armor --clearsign --output ./CLA-signed/CLA.YOURGITHUBNAME.YOURGPGFINGERPRINT.asc CLA.md`, then either submit your signed Contributor License Agreement to this repo as a GPG signed Pull Request or email it to [ChristopherA@DyversHands.com](mailto:ChristopherA@DyversHands.com).
