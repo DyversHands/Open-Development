@@ -93,7 +93,7 @@ If the _Work Order_ allows _Developer_ to use subcontractors:
 
 _Developer_ agrees to appoint a replacement technical representative, preapproved by _Dyvers Hands_, if the current one leaves or becomes unavailable.
 
-# Blockchain Commons' Obligations
+# Dyvers Hands' Obligations
 
 ## Pay Developer's Fee
 
@@ -175,15 +175,15 @@ _Developer_ assigns all _New Intellectual Property_ to _Dyvers Hands_. Among the
 
 _Developer_ will do everything necessary to paper assignments in [Developer Assigns Intellectual Property](#contractor-assigns-intellectual-property), make them legally effective, and help _Dyvers Hands_ enforce the rights assigned. _Dyvers Hands_ will notify _Developer_ by e-mail of any further steps required, provide all necessary documentation, and reimburse _Developer_ for reasonable out-of-pocket expenses.
 
-## Blockchain Commons Can Act on Developer's Behalf
+## Dyvers Hands Can Act on Developer's Behalf
 
-### What Blockchain Commons Can Do
+### What Dyvers Hands Can Do
 
 _Dyvers Hands_ can take action under [Further Steps](#further-steps) on _Developer_'s behalf if _Dyvers Hands_ can't find _Developer_, if _Developer_ isn't capable of doing so, or if _Developer_ refuses to do so.
 
 ### Legal Intent
 
-In legal terms of art, _Dyvers Hands_ and _Developer_ intend [What Blockchain Commons Can Do](#what-blockchain-commons-can-do) to appoint _Dyvers Hands_ as _Developer_'s "attorney in fact with full right of substitution" to act on _Developer_'s behalf under [Further Steps](#further-steps).
+In legal terms of art, _Dyvers Hands_ and _Developer_ intend [What Dyvers Hands Can Do](#what-dyvers-hands-can-do) to appoint _Dyvers Hands_ as _Developer_'s "attorney in fact with full right of substitution" to act on _Developer_'s behalf under [Further Steps](#further-steps).
 
 ## Other Intellectual Property
 
